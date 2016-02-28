@@ -8,7 +8,7 @@ What did you learn about CSS positioning?
 
 What aspects of your design did you find easiest to implement? What was most difficult?
 	
-	CSS Positioning was very difficult for me. I struggled with finding the exact id, classes, and code to get things to move the way I wanted to.
+	CSS Positioning was very difficult for me. I struggled with finding the exact id, classes, and code to get things to move the way I wanted to. I definitely need more practice with CSS.
 
 What did you learn about adding and formatting elements with CSS in this challenge?
 
